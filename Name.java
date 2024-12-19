@@ -6,8 +6,16 @@ public class Name
 {
     // Here is the main program in Java!!!!
     public static void main(String[] args)
-    {
-        System.out.println("Hello");
+    {                                                             
+        
+        System.out.println(" _     _____ _     _     ____    ");
+        System.out.println("/ \\ /|/  __// \\   / \\   /  _ \\  ");
+        System.out.println("| |_|||  \\  | |   | |   | / \\|  ");
+        System.out.println("| | |||  /_ | |_/\\| |_/\\| \\_/|  ");
+        System.out.println("\\_/ \\|\\____\\____/\\____/\\____/  ");
+                               
+
+        System.out.println();
         System.out.println(" __  __        _                     _ ");
         System.out.println("|  \\/  |      | |                   | |");
         System.out.println("| \\  / |_ __  | |    _   _ _ __   __| |");
